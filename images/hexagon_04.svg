@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   style="enable-background:new"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 553.93042 553.93042"
+   height="553.93042mm"
+   width="553.93042mm">
+  <defs
+     id="defs2">
+    <filter
+       id="filter916"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend918"
+         in2="BackgroundImage"
+         mode="lighten" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-3.1332647,300.68864)"
+     style="display:inline;filter:url(#filter916)"
+     id="layer1">
+    <path
+       d="M 224.50639,303.94899 -10.367684,186.69132 -193.11586,375.15433 -209.00477,113.11857 -463.59261,49.085516 -244.60745,-95.692563 -316.44711,-348.18863 -81.573036,-230.93095 101.17514,-419.39396 117.06405,-157.35821 371.65189,-93.325148 152.66673,51.452931 Z"
+       id="path817"
+       style="opacity:0;fill:#ff28c5;fill-opacity:1;stroke-width:0.26458332" />
+    <path
+       d="M 482.7437,-226.36864 C 492.87596,-216.23638 560.62566,36.608949 556.917,50.449874 553.20833,64.2908 368.1127,249.38643 354.27178,253.09509 340.43085,256.80376 87.585521,189.05406 77.45326,178.92179 67.320999,168.78953 -0.42870267,-84.055798 3.2799623,-97.896724 6.9886273,-111.73765 192.08426,-296.83328 205.92518,-300.54194 c 13.84093,-3.70867 266.68626,64.04103 276.81852,74.1733 z"
+       id="path847"
+       style="opacity:1;fill:#30bec9;fill-opacity:1;stroke-width:0.32865456" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(-157.99405,4.5357146)"
+       id="use4735"
+       xlink:href="#path847"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer2" />
+</svg>
