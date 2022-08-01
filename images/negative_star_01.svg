@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   style="enable-background:new"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 1199.9996 1199.9996"
+   height="1199.9996mm"
+   width="1199.9996mm">
+  <defs
+     id="defs2">
+    <filter
+       id="filter916"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend918"
+         in2="BackgroundImage"
+         mode="lighten" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(319.90129,623.72319)"
+     style="display:inline;filter:url(#filter916)"
+     id="layer1">
+    <path
+       d="M 224.50639,303.94899 -10.367684,186.69132 -193.11586,375.15433 -209.00477,113.11857 -463.59261,49.085516 -244.60745,-95.692563 -316.44711,-348.18863 -81.573036,-230.93095 101.17514,-419.39396 117.06405,-157.35821 371.65189,-93.325148 152.66673,51.452931 Z"
+       id="path817"
+       style="opacity:0;fill:#ff28c5;fill-opacity:1;stroke-width:0.26458332" />
+    <path
+       id="rect5061"
+       transform="matrix(0.26458333,0,0,0.26458333,-319.90129,-623.72319)"
+       d="M 4.0410156 -6.2148438 L 4.0410156 4551.5938 L 4537.6055 4551.5938 L 4537.6055 -6.2148438 L 4.0410156 -6.2148438 z M 1765.7852 1396.4082 C 1830.5886 1397.7466 2276.3265 1764.1489 2321.7148 1768.7324 C 2368.5674 1773.4638 2910.482 1485.7287 2945.6055 1517.0957 C 2980.7289 1548.4627 2755.8633 2119.3379 2765.8418 2165.3594 C 2775.8203 2211.3808 3216.9331 2637.8577 3197.9551 2680.9551 C 3178.9771 2724.0524 2566.5546 2686.603 2525.8691 2710.3145 C 2485.1836 2734.0259 2215.8916 3285.3368 2169.0391 3280.6055 C 2122.1865 3275.8741 1968.5551 2681.8533 1933.4316 2650.4863 C 1898.3082 2619.1194 1290.7636 2533.373 1280.7852 2487.3516 C 1270.8067 2441.3301 1788.2798 2111.6559 1807.2578 2068.5586 C 1826.2358 2025.4613 1720.043 1421.1549 1760.7285 1397.4434 C 1761.9999 1396.7024 1763.6947 1396.365 1765.7852 1396.4082 z "
+       style="opacity:1;fill:#00c6d0;fill-opacity:1;stroke:#7df0f7;stroke-width:11.33858299;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
