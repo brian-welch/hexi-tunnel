@@ -9,7 +9,7 @@ body {
 }
 
 #shapeContainer {
-    background-color: black;
+    /* background-color: black; */
     position: absolute;
     width: 100vw;
     height: 100vh;
@@ -30,6 +30,7 @@ body {
     width: 100vw;
     padding: 0;
     padding: 50vh 50vw;
+    transition: all 200ms ease-out;
 }
 
 svg {
