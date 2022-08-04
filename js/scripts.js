@@ -2,7 +2,6 @@ let shapesContainer = $("#shapeContainer");
 let iterations = Math.floor(Math.random()*50) + 260, animationSpeed = 35;
 let dir = ['-', ''], i;
 let spin_dir = dir[Math.floor(Math.random()*2)], rotator = Math.random();
-console.log(`spin_dir: '${spin_dir}'`);
 let widthOrHeight = { 0: ['width','vw'], 1: ['height', 'vh'] }
 let r_1 = (150 + (Math.random()*105)), g_1 = (150 + (Math.random()*105)), b_1 = (150 + (Math.random()*105));
 let r_2 = (150 + (Math.random()*105)), g_2 = (150 + (Math.random()*105)), b_2 = (150 + (Math.random()*105));
@@ -71,7 +70,6 @@ Shapes[6] = (index) => {
 const buildTunnel = () => {
     let chooser = Math.floor(Math.random()*6) + 1;
     for (let i = 0; i < iterations; i++) {
-        console.log(`chooser: ${chooser}`);
         // setTimeout(function() {
             shapesContainer.prepend(Shapes[chooser](i));
             shapesContainer.css('background',`rgba(${(r_1 - (iterations * (r_1/(iterations+0))))}, ${(r_1 - (iterations * (r_1/(iterations+0))))}, ${(b_1 - (iterations * (b_1/(iterations+0))))}, 1)`)
