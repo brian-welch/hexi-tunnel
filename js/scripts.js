@@ -11,7 +11,7 @@ let r_3 = r_2 - 127 < 0 ? r_2 + 127 : r_2 - 127,
     g_3 = g_2 - 127 < 0 ? g_2 + 127 : g_2 - 127,
     b_3 = b_2 - 127 < 0 ? b_2 + 127 : b_2 - 127;
 let aspect = windowWidth > widonwHeight ? 0 : 1;
-let strokeOpacity = (windowWidth + widonwHeight) < 1400 ? 0.0 : 0.75;
+let strokeOpacity = (windowWidth + widonwHeight) < 1400 ? 0.2 : 0.75;
 console.log(`window width: ${windowWidth}, window height: ${widonwHeight},total: ${windowWidth + widonwHeight}, hide stroke?: ${(windowWidth + widonwHeight) < 1200}`);
 
 let Shapes = {};
